@@ -1,0 +1,42 @@
+.container{
+
+    display: flex;
+    background-color: #d5e1ef;
+    width: 100%;
+    height: 718px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.qrcode{
+    background-color: white;
+    width: 250px;
+    height: 380px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.qr{
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.imp{
+    display: block;
+    margin: 15px;
+    font-size: 18px;
+    font-family: Fredoka;
+    font-weight: bold;
+}
+
+.disc{
+    display: block;
+    margin: 10px 25px;
+    font-size: 11px;
+    color: #757575;
+    font-family: Fredoka;
+    font-weight: 300;
+}
